@@ -1,0 +1,8 @@
+{
+  "name": "3x-UI VPN Telegram Bot & Control Hub",
+  "description": "Production Python aiogram 3 Telegram VPN bot connected to 3x-ui panel with card receipt approval, plan management, QR configs, free trials, and support tickets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
